@@ -4,7 +4,8 @@ Built 1/24/2018 by Valvano and Valvano
 Most of the folders contain CCS projects, with the following exceptions
 1) The documentation folder contains html description of the modules and functions (open tirslk_maze_1_00_00_Software_Documentation.html)
 2) The datasheets folder contains data sheets for components used in this curriculum
-3) The inc folder contains shared files. For example, code you use in one lab that you will need in the next lab will be located in the inc folder. The inc folder also contains starter code used throughout the curriculum.
+3) The inc folder contains shared files. For example, code you use in one lab that you will need in the next lab will be located in the inc folder. The inc folder also contains starter code used throughout the iculum.
 4) TExaSdisplay is a Windows application that implements a serial terminal, oscilloscope and logic analyzer.
 
 
+Edit: Lab 5 combines all 4 labs. Utilizes interrupts, polling, infrared sensors, Reflectance sensors, Bumper sensors, Tachometer, etc. Combined this to produce "follow the line", "Avoid objects", "Calculate RPM based on a PWM signal passed on both wheels", etc.
